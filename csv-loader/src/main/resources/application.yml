@@ -1,0 +1,5 @@
+spring.kafka.bootstrap-servers: 'localhost:9091'
+
+app:
+  path: '/home/vad/dev/learning/kafka/otus-kafka-project/tmp/2_2.csv'
+  topic: 'topic-2'
